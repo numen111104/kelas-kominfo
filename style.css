@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(226, 239, 240);
+}
+
+.container {
+  height: 100vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header-buffalo {
+  color: coral;
+  font-size: 50px;
+  margin-bottom: 5px;
+}
+
+.sub-header-buffalo {
+  color: chocolate;
+  font-size: 25px;
+}
+
+.image-buffalo {
+  padding: 10px;
+  margin-left: 10px;
+}
+
+.image-buffalo p {
+  text-align: center;
+  color: brown;
+}
+
+.image-buffalo img {
+  width: 200px;
+  height: 200px;
+}
